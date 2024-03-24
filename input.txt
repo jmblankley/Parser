@@ -1,0 +1,7 @@
+int one, two, three; void first, second;
+begin 
+	while(x + 2)
+		begin
+			This
+		end
+end
